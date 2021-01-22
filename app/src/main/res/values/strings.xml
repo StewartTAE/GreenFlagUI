@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">GreenFlagUI</string>
+
+    <string name="greenflag_title">GreenFlag</string>
+    <string name="headline">No Matter What</string>
+
+    <string name="customer_benefit">GreenFlag customers can</string>
+    <string name="customer_benefit_two">create an account to access</string>
+
+    <string name="car_health_updates">Car health updates</string>
+    <string name="request_rescue">Request a rescue online</string>
+    <string name="policy_information">Policy information</string>
+
+    <string name="image_desc">tick</string>
+
+    <string name="create_btn">Create an account</string>
+
+    // Second Screen
+
+    <string name="create_account">Create an account</string>
+
+    <string name="email">Email address</string>
+
+    <string name="create_password">Create password</string>
+
+    <string name="repeat_password">Repeat password</string>
+
+    <string name="hint_one">Your password should have a minimum of 8</string>
+    <string name="hint_two">characters and contain at least one</string>
+    <string name="hint_three">number, one uppercase and one lower</string>
+    <string name="hint_four">case letter. You can use special characters.</string>
+
+    <string name="btn_text">Next</string>
+    <string name="please_enter_email_address">Please Enter Email Address</string>
+</resources>
